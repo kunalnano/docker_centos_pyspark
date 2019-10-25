@@ -13,5 +13,6 @@ PySpark
 MySQL (doesnt work as docker wasnt composed with systemd init)
 
 To Start the docker -
+
 docker run -i -t (docker image name)
 
